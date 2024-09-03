@@ -1,0 +1,16 @@
+{
+  "name": "git-restore-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publisher": "CtrlO Ltd",
+  "author": {
+    "name": "Dave Roberts",
+    "email": "d.roberts@ctrlo.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/droberts-ctrlo/git-restore-plugin.git"
+  },
+  "type": "commonjs"
+}
